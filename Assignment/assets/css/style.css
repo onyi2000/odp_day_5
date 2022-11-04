@@ -1,0 +1,119 @@
+.box  {
+    width: 100%;
+    font-size: 16px;
+    text-align: right;
+    padding: 10px;
+  
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li{
+    display: inline;
+    padding: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.navbar img {
+    width: 30px;
+    border-radius: 20%;
+}
+
+.content {
+    text-align: center;
+    width:100% ;
+}
+
+.content img {
+    width: 30%;
+}
+
+.search {
+    text-align: center;
+
+}
+
+.search input {
+    height: auto;
+    width: 300px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    padding-top: 20px;
+}
+
+span {
+    padding: 10px;
+}
+
+
+.africa {
+    text-align: center;
+}
+
+
+.nig  {
+    float: left;
+    text-align: left;
+    padding-top: 80px;  
+    padding-bottom: 50px;
+}
+
+.part img {
+    width: 50%;
+    text-align: center;
+}
+
+.part p img {
+    width: 150px;
+   padding-top: 20%;
+}
+
+.word {
+    width: 100%;
+    
+}
+
+.left {
+    width: 60%;
+    float: left;
+  
+}
+
+.left ul {
+    list-style: none;
+}
+
+.left ul li {
+    display: inline;
+    padding: 40px;
+}
+
+.right {
+    width: 40%;
+    float: right;
+}
+
+.right ul{
+    list-style: none;
+}
+
+.right ul li {
+    display: inline;
+    padding: 40px;
+}
+
+
+
+
+
+
